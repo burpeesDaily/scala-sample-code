@@ -1,5 +1,5 @@
-A Scala Example
-===============
+Scala Example
+=============
 
 This is an Scala example used by my website formosa1544.com:
 
