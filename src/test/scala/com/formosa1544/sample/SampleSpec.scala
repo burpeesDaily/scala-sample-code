@@ -1,4 +1,4 @@
-package info.shunsvineyard.sample
+package com.formosa1544.sample
 
 import org.scalatest.wordspec._
 
