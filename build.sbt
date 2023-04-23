@@ -2,7 +2,7 @@ import Dependencies._
 
 ThisBuild / scalaVersion     := "2.13.3"
 ThisBuild / version          := "0.0.1"
-ThisBuild / organization     := "info.shunsvineyard"
+ThisBuild / organization     := "com.formosa1544"
 
 lazy val sample = (project in file("."))
   .settings(
